@@ -1,0 +1,2 @@
+# COMPLETABLEFUTURE_TEST
+非同期処理の一例をここに置く
